@@ -3,9 +3,9 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-19",
-  "checkedAt": "2026-11-19T18:47:14.750Z",
-  "generatedAt": "2026-11-19T18:51:31.982Z",
-  "freshUntil": "2026-11-20T00:47:14.750Z",
+  "checkedAt": "2026-11-19T22:09:55.874Z",
+  "generatedAt": "2026-11-19T22:10:02.047Z",
+  "freshUntil": "2026-11-20T02:59:59.999Z",
   "status": "fresh",
   "coupons": [
     {
@@ -134,6 +134,22 @@
       "expiresAt": null,
       "observedAt": "2026-11-19T18:47:14.750Z",
       "freshUntil": "2026-11-20T00:47:14.750Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELIGAMER",
+      "terms": "8% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 1 de 2): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Categorias, vendedores, vigência, região, requisitos de conta/Prime/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-19T22:09:55.365Z",
+      "freshUntil": "2026-11-20T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "HYPE100MP",
+      "terms": "R$100 OFF; mínimo R$450.\n\nCondições da publicação (código 2 de 2): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Categorias, vendedores, vigência, região, requisitos de conta/Prime/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-19T22:09:55.874Z",
+      "freshUntil": "2026-11-20T02:59:59.999Z",
       "testedInCart": false
     }
   ]
