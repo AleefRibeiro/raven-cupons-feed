@@ -2,83 +2,10 @@
   "schemaVersion": 1,
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
-  "sourceDate": "2026-11-18",
-  "checkedAt": "2026-11-18T15:59:57.369Z",
-  "generatedAt": "2026-11-18T22:00:04.587Z",
-  "freshUntil": "2026-11-18T21:59:57.369Z",
-  "status": "stale",
-  "coupons": [
-    {
-      "code": "TODO1811SITE",
-      "terms": "R$100 OFF; mínimo R$999.\n\nCondições da publicação (código 1 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    },
-    {
-      "code": "SITETODO1811",
-      "terms": "R$40 OFF; mínimo R$399.\n\nCondições da publicação (código 2 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    },
-    {
-      "code": "TODOSITE1811",
-      "terms": "R$20 OFF; mínimo R$119.\n\nCondições da publicação (código 3 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    },
-    {
-      "code": "CORREHOJEPROML",
-      "terms": "10% OFF no site; mínimo R$79; teto R$100.\n\nCondições da publicação (código 4 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    },
-    {
-      "code": "DIADATECH",
-      "terms": "10% OFF no site em Tecnologia e Eletrodomésticos; mínimo R$149; teto R$200.\n\nCondições da publicação (código 5 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    },
-    {
-      "code": "PARCEIRODAOBRA",
-      "terms": "20% OFF no site em Construção e Indústria; mínimo R$79; teto R$80.\n\nCondições da publicação (código 6 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    },
-    {
-      "code": "OFFHOJEML",
-      "terms": "20% OFF no site em Casa e Decoração; mínimo R$79; teto R$80.\n\nCondições da publicação (código 7 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    },
-    {
-      "code": "VEICPROMO",
-      "terms": "18% OFF no site em Autopeças; mínimo R$99; teto R$60.\n\nCondições da publicação (código 8 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    },
-    {
-      "code": "PROMOSAUDE",
-      "terms": "10% OFF no site em Saúde; mínimo R$119; teto R$30.\n\nCondições da publicação (código 9 de 9): Divulgados no Gearhead Ofertas. Categorias e uso no site dos seis últimos: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, pagamento, frete, limite de usos e requisitos de conta/app não informados.",
-      "expiresAt": null,
-      "observedAt": "2026-11-18T13:10:31.092Z",
-      "freshUntil": "2026-11-18T19:10:31.092Z",
-      "testedInCart": false
-    }
-  ]
+  "sourceDate": "2026-11-19",
+  "checkedAt": null,
+  "generatedAt": "2026-11-19T03:55:53.503Z",
+  "freshUntil": null,
+  "status": "missing",
+  "coupons": []
 }
