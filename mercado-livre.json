@@ -3,9 +3,50 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-20",
-  "checkedAt": null,
-  "generatedAt": "2026-11-20T03:59:14.630Z",
-  "freshUntil": null,
-  "status": "missing",
-  "coupons": []
+  "checkedAt": "2026-11-20T13:00:49.221Z",
+  "generatedAt": "2026-11-20T13:00:58.638Z",
+  "freshUntil": "2026-11-20T19:00:49.221Z",
+  "status": "fresh",
+  "coupons": [
+    {
+      "code": "TODO2011SITE",
+      "terms": "R$100 OFF; mínimo R$999.\n\nCondições da publicação (código 1 de 5): Três primeiros: Divulgados no Gearhead Ofertas. Demais: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-20T13:00:49.119Z",
+      "freshUntil": "2026-11-20T19:00:49.119Z",
+      "testedInCart": false
+    },
+    {
+      "code": "SITETODO2011",
+      "terms": "R$40 OFF; mínimo R$399.\n\nCondições da publicação (código 2 de 5): Três primeiros: Divulgados no Gearhead Ofertas. Demais: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-20T13:00:49.119Z",
+      "freshUntil": "2026-11-20T19:00:49.119Z",
+      "testedInCart": false
+    },
+    {
+      "code": "TODOSITE2011",
+      "terms": "R$20 OFF; mínimo R$119.\n\nCondições da publicação (código 3 de 5): Três primeiros: Divulgados no Gearhead Ofertas. Demais: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-20T13:00:49.119Z",
+      "freshUntil": "2026-11-20T19:00:49.119Z",
+      "testedInCart": false
+    },
+    {
+      "code": "INOVATECHML",
+      "terms": "10% OFF no site em Tecnologia; mínimo R$199; teto R$200.\n\nCondições da publicação (código 4 de 5): Três primeiros: Divulgados no Gearhead Ofertas. Demais: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-20T13:00:49.221Z",
+      "freshUntil": "2026-11-20T19:00:49.221Z",
+      "testedInCart": false
+    },
+    {
+      "code": "OFERTAPARASAUDE",
+      "terms": "10% OFF no site em Saúde; mínimo R$199; teto R$30.\n\nCondições da publicação (código 5 de 5): Três primeiros: Divulgados no Gearhead Ofertas. Demais: Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-20T13:00:49.221Z",
+      "freshUntil": "2026-11-20T19:00:49.221Z",
+      "testedInCart": false
+    }
+  ]
 }
