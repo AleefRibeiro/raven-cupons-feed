@@ -3,9 +3,42 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-21",
-  "checkedAt": null,
-  "generatedAt": "2026-11-21T03:57:06.517Z",
-  "freshUntil": null,
-  "status": "missing",
-  "coupons": []
+  "checkedAt": "2026-11-21T13:02:41.252Z",
+  "generatedAt": "2026-11-21T13:02:47.757Z",
+  "freshUntil": "2026-11-21T19:02:41.252Z",
+  "status": "fresh",
+  "coupons": [
+    {
+      "code": "MELIMAIS2111",
+      "terms": "20% OFF, exclusivo Meli+; teto R$80. Mínimo não informado.\n\nCondições da publicação (código 1 de 4): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-21T13:02:41.252Z",
+      "freshUntil": "2026-11-21T19:02:41.252Z",
+      "testedInCart": false
+    },
+    {
+      "code": "TODO2111SITE",
+      "terms": "R$100 OFF; mínimo R$999.\n\nCondições da publicação (código 2 de 4): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-21T13:02:41.252Z",
+      "freshUntil": "2026-11-21T19:02:41.252Z",
+      "testedInCart": false
+    },
+    {
+      "code": "TODOSITE2111",
+      "terms": "R$20 OFF; mínimo R$199.\n\nCondições da publicação (código 3 de 4): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-21T13:02:41.252Z",
+      "freshUntil": "2026-11-21T19:02:41.252Z",
+      "testedInCart": false
+    },
+    {
+      "code": "SITETODO2111",
+      "terms": "R$40 OFF; mínimo R$399.\n\nCondições da publicação (código 4 de 4): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-21T13:02:41.252Z",
+      "freshUntil": "2026-11-21T19:02:41.252Z",
+      "testedInCart": false
+    }
+  ]
 }
