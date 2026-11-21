@@ -3,9 +3,9 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-21",
-  "checkedAt": "2026-11-21T16:00:59.614Z",
-  "generatedAt": "2026-11-21T16:01:04.408Z",
-  "freshUntil": "2026-11-21T22:00:59.614Z",
+  "checkedAt": "2026-11-21T16:01:03.473Z",
+  "generatedAt": "2026-11-21T16:01:14.416Z",
+  "freshUntil": "2026-11-21T22:01:03.473Z",
   "status": "fresh",
   "coupons": [
     {
@@ -44,16 +44,16 @@
       "code": "TECH2111",
       "terms": "R$200 OFF; mínimo R$1.599.\n\nCondições da publicação (código 1 de 2): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
       "expiresAt": null,
-      "observedAt": "2026-11-21T16:00:59.614Z",
-      "freshUntil": "2026-11-21T22:00:59.614Z",
+      "observedAt": "2026-11-21T16:01:03.473Z",
+      "freshUntil": "2026-11-21T22:01:03.473Z",
       "testedInCart": false
     },
     {
       "code": "CASA2111",
       "terms": "15% OFF; teto R$45. Mínimo não informado.\n\nCondições da publicação (código 2 de 2): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Demais categorias/vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
       "expiresAt": null,
-      "observedAt": "2026-11-21T16:00:59.614Z",
-      "freshUntil": "2026-11-21T22:00:59.614Z",
+      "observedAt": "2026-11-21T16:01:03.473Z",
+      "freshUntil": "2026-11-21T22:01:03.473Z",
       "testedInCart": false
     }
   ]
