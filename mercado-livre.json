@@ -3,8 +3,8 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-21",
-  "checkedAt": "2026-11-22T00:57:50.505Z",
-  "generatedAt": "2026-11-22T00:57:54.042Z",
+  "checkedAt": "2026-11-22T00:57:55.788Z",
+  "generatedAt": "2026-11-22T00:58:05.013Z",
   "freshUntil": "2026-11-22T02:59:59.999Z",
   "status": "fresh",
   "coupons": [
@@ -68,7 +68,7 @@
       "code": "FINALMELI",
       "terms": "10% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 1 de 2): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Categorias, vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
       "expiresAt": null,
-      "observedAt": "2026-11-22T00:57:49.923Z",
+      "observedAt": "2026-11-22T00:57:55.431Z",
       "freshUntil": "2026-11-22T02:59:59.999Z",
       "testedInCart": false
     },
@@ -76,7 +76,7 @@
       "code": "GOLDEOFERTA",
       "terms": "10% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 2 de 2): Divulgados no Gearhead Ofertas. Itens/contas elegíveis e aceitação no carrinho, sujeitos à disponibilidade. Categorias, vendedores, vigência, região, requisitos de conta/app, pagamento, frete e limite de usos não informados.",
       "expiresAt": null,
-      "observedAt": "2026-11-22T00:57:50.505Z",
+      "observedAt": "2026-11-22T00:57:55.788Z",
       "freshUntil": "2026-11-22T02:59:59.999Z",
       "testedInCart": false
     }
