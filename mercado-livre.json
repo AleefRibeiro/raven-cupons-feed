@@ -3,9 +3,74 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-26",
-  "checkedAt": null,
-  "generatedAt": "2026-11-26T03:03:22.313Z",
-  "freshUntil": null,
-  "status": "missing",
-  "coupons": []
+  "checkedAt": "2026-11-26T12:14:45.000Z",
+  "generatedAt": "2026-11-26T13:39:17.478Z",
+  "freshUntil": "2026-11-26T18:14:45.000Z",
+  "status": "fresh",
+  "coupons": [
+    {
+      "code": "MELIOW7",
+      "terms": "R$75 OFF em compras de R$499+. Exclusivo Meli+.\n\nCondições da publicação (código 1 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias dos quatro primeiros, vigência, frete, plataforma, pagamento e demais restrições não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-26T12:14:45.000Z",
+      "freshUntil": "2026-11-26T18:14:45.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELISPH",
+      "terms": "20% OFF em compras de R$200+; teto R$80.\n\nCondições da publicação (código 2 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias dos quatro primeiros, vigência, frete, plataforma, pagamento e demais restrições não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-26T12:14:45.000Z",
+      "freshUntil": "2026-11-26T18:14:45.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "ZHSMELI",
+      "terms": "R$230 OFF em compras de R$1.499+.\n\nCondições da publicação (código 3 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias dos quatro primeiros, vigência, frete, plataforma, pagamento e demais restrições não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-26T12:14:45.000Z",
+      "freshUntil": "2026-11-26T18:14:45.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELID07",
+      "terms": "15% OFF em compras de R$299+; teto R$80.\n\nCondições da publicação (código 4 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias dos quatro primeiros, vigência, frete, plataforma, pagamento e demais restrições não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-26T12:14:45.000Z",
+      "freshUntil": "2026-11-26T18:14:45.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MODOCASA",
+      "terms": "12% OFF em Eletrodomésticos, em compras de R$1.499+; teto R$250.\n\nCondições da publicação (código 5 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias dos quatro primeiros, vigência, frete, plataforma, pagamento e demais restrições não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-26T12:14:45.000Z",
+      "freshUntil": "2026-11-26T18:14:45.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "PROJETOGRANDE",
+      "terms": "20% OFF em Indústria e Comércio, em compras de R$199+; teto R$80.\n\nCondições da publicação (código 6 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias dos quatro primeiros, vigência, frete, plataforma, pagamento e demais restrições não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-26T12:14:00.000Z",
+      "freshUntil": "2026-11-26T18:14:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "AUTOVIP",
+      "terms": "20% OFF em Acessórios para Veículos, em compras de R$199+; teto R$80.\n\nCondições da publicação (código 7 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias dos quatro primeiros, vigência, frete, plataforma, pagamento e demais restrições não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-26T12:14:00.000Z",
+      "freshUntil": "2026-11-26T18:14:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "ENERGIAMELI",
+      "terms": "18% OFF em Saúde, em compras de R$199+; teto R$50.\n\nCondições da publicação (código 8 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias dos quatro primeiros, vigência, frete, plataforma, pagamento e demais restrições não informados.",
+      "expiresAt": null,
+      "observedAt": "2026-11-26T12:14:00.000Z",
+      "freshUntil": "2026-11-26T18:14:00.000Z",
+      "testedInCart": false
+    }
+  ]
 }
