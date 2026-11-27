@@ -3,10 +3,10 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-27",
-  "checkedAt": "2026-11-27T04:59:54.323Z",
-  "generatedAt": "2026-11-27T13:44:19.285Z",
-  "freshUntil": "2026-11-27T10:59:54.323Z",
-  "status": "stale",
+  "checkedAt": "2026-11-27T16:58:39.000Z",
+  "generatedAt": "2026-11-27T19:07:45.090Z",
+  "freshUntil": "2026-11-27T22:58:39.000Z",
+  "status": "fresh",
   "coupons": [
     {
       "code": "ELETRO300",
@@ -30,6 +30,158 @@
       "expiresAt": null,
       "observedAt": "2026-11-27T04:59:54.323Z",
       "freshUntil": "2026-11-27T10:59:54.323Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELI4Z8",
+      "terms": "R$180 OFF em compras de R$1.199+.\n\nCondições da publicação (código 1 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELI1CL",
+      "terms": "R$110 OFF em compras de R$699+.\n\nCondições da publicação (código 2 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "K4RMELI",
+      "terms": "R$60 OFF em compras de R$399+.\n\nCondições da publicação (código 3 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELIO7N",
+      "terms": "R$25 OFF em compras de R$159+.\n\nCondições da publicação (código 4 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "PROMOHOJEPRACASA",
+      "terms": "12% OFF em Tecnologia e Eletrodomésticos, em compras de R$599+; teto R$350.\n\nCondições da publicação (código 5 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CONECTAML",
+      "terms": "12% OFF em Tecnologia e Eletrodomésticos, em compras de R$599+; teto R$350.\n\nCondições da publicação (código 6 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "TUDOPARAOBRA",
+      "terms": "25% OFF em Construção e Automotivo. Mínimo e teto não informados.\n\nCondições da publicação (código 7 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "GARAGEMML",
+      "terms": "25% OFF em Construção e Automotivo. Mínimo e teto não informados.\n\nCondições da publicação (código 8 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CUIDADOML",
+      "terms": "20% OFF em Saúde. Mínimo e teto não informados.\n\nCondições da publicação (código 9 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "7CJMELI",
+      "terms": "R$270 OFF em compras acima de R$1.499.\n\nCondições da publicação (código 10 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "SOHOJEBF",
+      "terms": "12% OFF no site em compras de R$79+; teto R$100.\n\nCondições da publicação (código 11 de 11): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos demais códigos, categorias não indicadas e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T14:05:00.000Z",
+      "freshUntil": "2026-11-27T20:05:00.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "BLACKVIPMELI",
+      "terms": "25% OFF em compras de R$79+; teto R$60. Produtos vendidos e entregues pelo Mercado Livre.\n\nCondições da publicação (código 1 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nRestrição de BLACKVIPMELI divulgada no Gatry.\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos códigos sem indicação de site e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T16:58:39.000Z",
+      "freshUntil": "2026-11-27T22:58:39.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "TSKMELI",
+      "terms": "R$280 OFF em compras de R$1.199+. Exclusivo Meli+.\n\nCondições da publicação (código 2 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nRestrição de BLACKVIPMELI divulgada no Gatry.\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos códigos sem indicação de site e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T16:58:39.000Z",
+      "freshUntil": "2026-11-27T22:58:39.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "DESCONTO199",
+      "terms": "R$199 OFF em compras de R$999+. Múltiplas categorias selecionadas.\n\nCondições da publicação (código 3 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nRestrição de BLACKVIPMELI divulgada no Gatry.\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos códigos sem indicação de site e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T16:58:39.000Z",
+      "freshUntil": "2026-11-27T22:58:39.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "APROVEITANOML25",
+      "terms": "25% OFF no site em ofertas de vendedores selecionadas, em compras de R$1+; teto R$500.\n\nCondições da publicação (código 4 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nRestrição de BLACKVIPMELI divulgada no Gatry.\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos códigos sem indicação de site e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T16:58:39.000Z",
+      "freshUntil": "2026-11-27T22:58:39.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CORREPROAPP30",
+      "terms": "30% OFF no site em ofertas de vendedores selecionadas, em compras de R$1+; teto R$500.\n\nCondições da publicação (código 5 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nRestrição de BLACKVIPMELI divulgada no Gatry.\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos códigos sem indicação de site e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T16:58:39.000Z",
+      "freshUntil": "2026-11-27T22:58:39.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CORREPROMELI30",
+      "terms": "30% OFF no site em ofertas de vendedores selecionadas, em compras de R$1+; teto R$500.\n\nCondições da publicação (código 6 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nRestrição de BLACKVIPMELI divulgada no Gatry.\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos códigos sem indicação de site e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T16:58:39.000Z",
+      "freshUntil": "2026-11-27T22:58:39.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELIOFF35",
+      "terms": "35% OFF no site em ofertas de vendedores selecionadas, em compras de R$1+; teto R$500.\n\nCondições da publicação (código 7 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nRestrição de BLACKVIPMELI divulgada no Gatry.\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos códigos sem indicação de site e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T16:58:39.000Z",
+      "freshUntil": "2026-11-27T22:58:39.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELIVIP35",
+      "terms": "35% OFF no site em ofertas de vendedores selecionadas, em compras de R$1+; teto R$500.\n\nCondições da publicação (código 8 de 8): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nRestrição de BLACKVIPMELI divulgada no Gatry.\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Vigência, frete, pagamento, plataforma dos códigos sem indicação de site e demais restrições não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T16:58:39.000Z",
+      "freshUntil": "2026-11-27T22:58:39.000Z",
       "testedInCart": false
     }
   ]
