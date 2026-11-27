@@ -3,10 +3,10 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-27",
-  "checkedAt": "2026-11-27T16:58:39.000Z",
-  "generatedAt": "2026-11-27T22:58:46.509Z",
-  "freshUntil": "2026-11-27T22:58:39.000Z",
-  "status": "stale",
+  "checkedAt": "2026-11-27T22:59:32.000Z",
+  "generatedAt": "2026-11-27T22:59:37.997Z",
+  "freshUntil": "2026-11-28T02:59:59.999Z",
+  "status": "fresh",
   "coupons": [
     {
       "code": "ELETRO300",
@@ -182,6 +182,102 @@
       "expiresAt": null,
       "observedAt": "2026-11-27T16:58:39.000Z",
       "freshUntil": "2026-11-27T22:58:39.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "PMFT0001JACATC",
+      "terms": "R$1.200 OFF em compras de R$4.000+. Pagamento com Cartão Mercado Pago Visa.\n\nCondições da publicação (código 1 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MEUDESCONTOBLACK",
+      "terms": "R$300 OFF em compras de R$1.999+.\n\nCondições da publicação (código 2 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "AQEYPDSA",
+      "terms": "R$120 OFF em compras de R$799+.\n\nCondições da publicação (código 3 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "WEUYRUE",
+      "terms": "R$60 OFF em compras de R$399+.\n\nCondições da publicação (código 4 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "PLSPQEWMAD",
+      "terms": "R$25 OFF em compras de R$159+.\n\nCondições da publicação (código 5 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "BLACKMELI",
+      "terms": "20% OFF em compras de R$199+, limitado a R$100.\n\nCondições da publicação (código 6 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CUPONOMOVEIS",
+      "terms": "R$150 OFF em Móveis de R$859+.\n\nCondições da publicação (código 7 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "BLACKVIP",
+      "terms": "18% OFF em compras de R$599+, limitado a R$250. Somente hoje, enquanto durarem os estoques, em produtos elegíveis.\n\nCondições da publicação (código 8 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "60OFFSMFBCDE",
+      "terms": "60% OFF em selecionados. Mínimo e teto não informados.\n\nCondições da publicação (código 9 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "80OFFSMFJKLM",
+      "terms": "80% OFF em selecionados. Mínimo e teto não informados.\n\nCondições da publicação (código 10 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "SALDOMPAGORA",
+      "terms": "R$50 OFF em compras de R$350+. Usar saldo Mercado Pago.\n\nCondições da publicação (código 11 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "SUPEROFF",
+      "terms": "R$250 OFF em compras de R$1.499+.\n\nCondições da publicação (código 12 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
       "testedInCart": false
     }
   ]
