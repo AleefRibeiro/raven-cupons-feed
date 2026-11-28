@@ -3,9 +3,106 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-28",
-  "checkedAt": null,
-  "generatedAt": "2026-11-28T03:06:46.413Z",
-  "freshUntil": null,
-  "status": "missing",
-  "coupons": []
+  "checkedAt": "2026-11-28T16:59:29.000Z",
+  "generatedAt": "2026-11-28T16:59:30.916Z",
+  "freshUntil": "2026-11-28T22:59:29.000Z",
+  "status": "fresh",
+  "coupons": [
+    {
+      "code": "MELIT94",
+      "terms": "R$230 OFF em compras de R$1.499+.\n\nCondições da publicação (código 1 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "ZOQMELI",
+      "terms": "R$20 OFF em compras de R$159+.\n\nCondições da publicação (código 2 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CORREAQUIML30",
+      "terms": "30% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 3 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "PROMOFLASH18",
+      "terms": "18% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 4 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CHEGUEIML25",
+      "terms": "25% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 5 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CORREAQUIML25",
+      "terms": "25% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 6 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "QUEROPROMOS22",
+      "terms": "22% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 7 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "CORREPROAPP25",
+      "terms": "25% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 8 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "BOMDEMAIS25",
+      "terms": "25% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 9 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELIG21",
+      "terms": "25% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 10 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "M2JMELI",
+      "terms": "20% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 11 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELIGVN",
+      "terms": "20% OFF. Mínimo e teto não informados.\n\nCondições da publicação (código 12 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T16:59:29.000Z",
+      "freshUntil": "2026-11-28T22:59:29.000Z",
+      "testedInCart": false
+    }
+  ]
 }
