@@ -3,8 +3,8 @@
   "store": "mercado-livre",
   "source": "Gearhead Ofertas",
   "sourceDate": "2026-11-27",
-  "checkedAt": "2026-11-27T22:59:32.000Z",
-  "generatedAt": "2026-11-27T22:59:37.997Z",
+  "checkedAt": "2026-11-28T02:04:13.000Z",
+  "generatedAt": "2026-11-28T02:04:16.011Z",
   "freshUntil": "2026-11-28T02:59:59.999Z",
   "status": "fresh",
   "coupons": [
@@ -277,6 +277,46 @@
       "terms": "R$250 OFF em compras de R$1.499+.\n\nCondições da publicação (código 12 de 12): Divulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nDivulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Demais condições, categorias/vendedores, região, conta/Prime/app/primeira compra, frete, limites de uso e vigência não informados, salvo indicação acima.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
       "expiresAt": null,
       "observedAt": "2026-11-27T22:59:32.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MAISBLACK",
+      "terms": "18% OFF em compras de R$1.299+, limitado a R$300.\n\nCondições da publicação (código 1 de 5): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/Prime/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T02:04:13.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "JJRMELI",
+      "terms": "20% OFF em compras de R$79+, limitado a R$80.\n\nCondições da publicação (código 2 de 5): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/Prime/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T02:04:13.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "R3ZMELI",
+      "terms": "20% OFF em compras de R$139+, limitado a R$50.\n\nCondições da publicação (código 3 de 5): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/Prime/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T02:04:13.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "BLACKHOJE",
+      "terms": "15% OFF em compras de R$1.199+, limitado a R$350.\n\nCondições da publicação (código 4 de 5): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/Prime/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T02:04:13.000Z",
+      "freshUntil": "2026-11-28T02:59:59.999Z",
+      "testedInCart": false
+    },
+    {
+      "code": "MELINABLACK",
+      "terms": "R$300 OFF em compras de R$1.999+.\n\nCondições da publicação (código 5 de 5): Divulgados no Gearhead Ofertas\n\nSomente itens/contas elegíveis; confirme a aceitação no carrinho. Sujeitos à disponibilidade. Categorias/vendedores, região, conta/Prime/app/primeira compra, pagamento, frete, limites de uso e vigência não informados.\n\nObservado na publicação do Gearhead Ofertas. Validade e aceitação não verificadas no carrinho.",
+      "expiresAt": null,
+      "observedAt": "2026-11-28T02:04:13.000Z",
       "freshUntil": "2026-11-28T02:59:59.999Z",
       "testedInCart": false
     }
